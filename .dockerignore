@@ -1,0 +1,12 @@
+.git
+.venv
+venv
+ll_env
+python312
+python-runtime
+__pycache__
+*.pyc
+*.sqlite3
+staticfiles
+.env
+server.*.log

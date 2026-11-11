@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+ll_env/
+venv/
+.venv/
+.env
+*.sqlite3
+staticfiles/
+python312/
+python-runtime/
